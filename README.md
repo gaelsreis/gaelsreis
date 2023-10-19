@@ -1,14 +1,13 @@
 # Gabriel dos Santos Reis
 Analista de Sistemas
 
+<div>
 <a href="https://github.com/gaelsreis/">
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=gaelsreis&show_icons=true&rank_icon=github" />
 </a>
-<a href="https://github.com/gaelsreis/">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=gaelsreis&layout=compact&langs_count=8&card_width=320" />
-</a>
+</div>
 
-##
+---
 
 <div>
   <a href="https://t.me/Gaelsreis" target="_blank"><img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white"></a>
@@ -23,4 +22,12 @@ Analista de Sistemas
   <img align="center" alt="Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center" alt="React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
+</div>
+
+---
+
+<div>
+<a href="https://github.com/gaelsreis/">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=gaelsreis&layout=compact&langs_count=8" />
+</a>
 </div>
