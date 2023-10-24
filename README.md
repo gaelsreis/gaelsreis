@@ -8,10 +8,7 @@
   </a>
 </div>
 
-# Gabriel dos Santos Reis
-Analista de Sistemas
-
-## Tecnologias
+---
 
 <div style="display: inline_block"><br>
   <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
@@ -27,7 +24,7 @@ Analista de Sistemas
   <img align="center" alt="sqlite" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sqlite/sqlite-original.svg">
 </div>
 
-## Contatos
+---
 
 <div>
   <a href="https://t.me/Gaelsreis" target="_blank"><img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white"></a>
